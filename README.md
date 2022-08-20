@@ -6,7 +6,7 @@
 
 ## MarkDown 교육 과정
 - MarkDown
-  - [ ] MarkDown이란?
+  - [x] MarkDown이란?
   - [ ] MarkDown 장단점
 - MarkDown 문법
   - [ ] 색(Color)
