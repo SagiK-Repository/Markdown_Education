@@ -46,3 +46,14 @@
   - https://comeinsidebox.com/markdown/
 - 마크다운 정의
   - https://ko.wikipedia.org/wiki/마크다운
+
+<br><br>
+
+# 상세 내용
+
+<br><br>
+
+## 1. MarkDown 이란?
+ * MarkDown은 일반 텍스트 기반의 경량 마크업 언어로, 2004년 3월 19일 존그루버와 에런 스워츠에 의해 만들어졌다.
+ * HTML과 RTF로 쉽게 변환가능하기에 응용 소프트웨어의 README 파일 또는 온라인 게시물(GitHub)에 사용된다.
+ * 문서를 작성하는데 사용하며, 문법이 쉽고 간단하다.
