@@ -482,16 +482,20 @@ __~~굵게+취소선~~__
 ```markdown
 <details>
 <summary>접기/펼치기 버튼</summary>
+
  div markdown="1"은 jekyll에서 html사이에 markdown을 인식하기 위한 조치
-<div markdown="1">
+<div markdown="1"> </div>
+</details>
 ```
 ### 내용 (실행)
 
 <details>
 <summary>접기/펼치기 버튼</summary>
+
  div markdown="1"은 jekyll에서 html사이에 markdown을 인식하기 위한 조치
-<div markdown="1">
-<br>
+<div markdown="1"> </div>
+</details>
+
 
 
 
@@ -576,6 +580,7 @@ a^2+b^2=c^2
 ```
 ### 수학식 (실행)
 $`a^2+b^2=c^2`$
+
 ```math
 a^2+b^2=c^2
 ```
