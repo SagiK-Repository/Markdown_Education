@@ -335,9 +335,26 @@ http://www.google.co.kr/
 
 
  이 부분은 [google][1]를 참고하시면 됩니다. 아래 사진은 사진링크입니다.  
-[![박주형_복사](http://www.google.co.kr/)][1]
+[![박주형_복사](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r4.png)][1]
   
  [1]: http://www.google.co.kr/  
+
+
+```
+### 링크 삽입 (실행)
+http://www.google.co.kr/  
+<http://www.google.co.kr/>
+
+
+ [주소에 대한 설명](http://www.google.co.kr/)  
+ [주소에 대한 설명](http://www.google.co.kr/ "마우스ON > 설명추가")  
+
+
+ 이 부분은 [google][1]를 참고하시면 됩니다. 아래 사진은 사진링크입니다.  
+[![박주형_복사](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r4.png)][1]
+  
+ [1]: http://www.google.co.kr/  
+
  
  
 <br><br>
