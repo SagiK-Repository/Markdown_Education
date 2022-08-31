@@ -7,27 +7,27 @@
 ## MarkDown 교육 과정
 - MarkDown
   - [x] MarkDown이란?
-  - [ ] MarkDown 장단점
+  - [x] MarkDown 장단점
 - MarkDown 문법
-  - [ ] 색(Color)
-  - [ ] 제목(Header)
-  - [ ] 인용구(BlockQuote)
-  - [ ] 목록(List)
-  - [ ] 코드(Code)
-  - [ ] 링크(Link)
-  - [ ] 강조(Emphasis)
-  - [ ] 이미지(Image)
-  - [ ] 표(Table)
-  - [ ] 인라인 비교(Inline Diffrent)
-  - [ ] 세부정보 및 요약(접기)(Details and summary)
-  - [ ] 수평선(Horizontal Rules)
-  - [ ] 각주(Footnotes)
-  - [ ] 체크박스(Task lists)
-  - [ ] 수학(Math)
-  - [ ] Mermaid 다이어그램 및 플롯차트(Diagrams and Flowchart)
-  - [ ] 주석(Remark)
-  - [ ] 접기
-- [ ] 마크다운 문법 활용한 문서 만들기
+  - [x] 색(Color)
+  - [x] 제목(Header)
+  - [x] 인용구(BlockQuote)
+  - [x] 목록(List)
+  - [x] 코드(Code)
+  - [x] 링크(Link)
+  - [x] 강조(Emphasis)
+  - [x] 이미지(Image)
+  - [x] 표(Table)
+  - [x] 인라인 비교(Inline Diffrent)
+  - [x] 세부정보 및 요약(접기)(Details and summary)
+  - [x] 수평선(Horizontal Rules)
+  - [x] 각주(Footnotes)
+  - [x] 체크박스(Task lists)
+  - [x] 수학(Math)
+  - [x] Mermaid 다이어그램 및 플롯차트(Diagrams and Flowchart)
+  - [x] 주석(Remark)
+  - [x] 접기
+- [x] 마크다운 문법 활용한 문서 만들기
 
 
 
