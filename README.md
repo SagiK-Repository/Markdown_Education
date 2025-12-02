@@ -27,6 +27,7 @@
   - [x] Mermaid 다이어그램 및 플롯차트(Diagrams and Flowchart)
   - [x] 주석(Remark)
   - [x] 접기
+  - [x] 알람박스 (Admonition)
 - [x] 마크다운 문법 활용한 문서 만들기
 
 
@@ -666,3 +667,22 @@ end
 
 <br>
 
+
+### 알람 박스 (Admonition)
+
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+ 
+> [!CAUTION]
+> Negative potential consequences of an action.
+
+<br>
